@@ -1,6 +1,0 @@
-first time change
-<<<<<<< HEAD
-super time
-=======
-second time change
->>>>>>> task-01
